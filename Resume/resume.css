@@ -1,0 +1,124 @@
+#main {
+  /* border: 1px solid red; */
+  width: 85%;
+  /* height: 1000px; */
+  margin: auto;
+  /* margin-top: 20px; */
+  display: flex;
+}
+#sub {
+  /* border: 1px solid black; */
+  width: 38%;
+  height: 100%;
+}
+#suba {
+  /* border: 1px solid black; */
+  width: 62%;
+  height: 100%;
+}
+#sub > div {
+  /* border: 1px solid slateblue; */
+  width: 100%;
+  /* height: 13%; */
+}
+#sub1 {
+  width: 100%;
+  height: 180px;
+  /* border: 4px solid sienna; */
+}
+#img {
+  width: 65%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: fill;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#sub3{
+    /* border: 2px solid slateblue; */
+    margin-top: 5px;
+}
+#para{
+   
+    width: 95%;
+    margin: auto;
+    margin-top: -10px;
+    line-height: 20px;
+    text-align: justify;
+}
+#para2{
+   
+    width: 80%;
+    margin: auto;
+    margin-top: 3px;
+    line-height: 20px;
+    text-align: justify;
+}
+#sub2 {
+  height: fit-content;
+  /* border: 1px solid slateblue;  */
+}
+.ph {
+  width: 7%;
+  height: 20px;
+  margin-top: 5px;
+  margin-left: 25px;
+  /* border: 2px saddlebrown; */
+}
+#sub2 > h3 {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+#sub3 > h3 {
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  #sub4 > h3 {
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  #sub5 > h3 {
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  #sub6 > h3 {
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  #sub7 > h3 {
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+#co {
+  display: flex;
+  /* border: 1px solid darkred; */
+  margin-top: -15px;
+}
+#co > p {
+  /* border: 2px solid seagreen; */
+  margin-top: 5px;
+  margin-left: 5px;
+}
+#co > a {
+  /* border: 2px solid seagreen; */
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-bottom: 15px;
+}
+.a2 {
+  margin-top: 5px;
+}
+.ph1 {
+  width: 5%;
+  height: 15px;
+  margin-top: 10px;
+  margin-left: 28px;
+  /* border: 2px saddlebrown; */
+}
+#new{
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: 8px;
+}
